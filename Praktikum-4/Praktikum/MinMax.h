@@ -6,6 +6,3 @@
 List MinMax(List L);
 
 #endif
-Memo
-Sorot
-Jelaskan
