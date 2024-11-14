@@ -16,6 +16,8 @@ Repositori ini berisi kumpulan tugas praktikum untuk mata kuliah IF2111 - Algori
 - **Praktikum-4**: Memuat tugas dan latihan dari praktikum keempat.
 - **Praktikum-5**: Memuat tugas dan latihan dari praktikum kelima.
 - **Praktikum-6**: Memuat tugas dan latihan dari praktikum keenam.
+- **Praktikum-7**: Memuat tugas dan latihan dari praktikum ketujuh.
+
 
 Setiap direktori praktikum berisi kode sumber dan mungkin juga laporan atau dokumentasi tambahan yang menjelaskan solusi dan pendekatan yang digunakan.
 
