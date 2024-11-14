@@ -8,15 +8,15 @@ Halo! Nama saya Nazwan Siddqi Muttaqin, dan saya adalah seorang mahasiswa STI ya
 
 Repositori ini berisi kumpulan tugas praktikum untuk mata kuliah IF2111 - Algoritma dan Struktur Data. Di dalamnya, Anda akan menemukan berbagai proyek dan kode yang ditulis dalam bahasa C, yang mencakup berbagai konsep struktur data dan algoritma dasar.
 
-### Struktur Direktori
+### Materi Praktikum
 
-- **Praktikum-1**: Memuat tugas dan latihan dari praktikum pertama.
-- **Praktikum-2**: Memuat tugas dan latihan dari praktikum kedua.
-- **Praktikum-3**: Memuat tugas dan latihan dari praktikum ketiga.
-- **Praktikum-4**: Memuat tugas dan latihan dari praktikum keempat.
-- **Praktikum-5**: Memuat tugas dan latihan dari praktikum kelima.
-- **Praktikum-6**: Memuat tugas dan latihan dari praktikum keenam.
-- **Praktikum-7**: Memuat tugas dan latihan dari praktikum ketujuh.
+- **Praktikum-1**: Pengenalan C.
+- **Praktikum-2**: Pengenalan Lanjutan C.
+- **Praktikum-3**: Array dan ADT List.
+- **Praktikum-4**: ADT List Statik dan Dinamik.
+- **Praktikum-5**: Mesin Karakter & Mesin Kata.
+- **Praktikum-6**: Queue.
+- **Praktikum-7**: Stack.
 
 
 Setiap direktori praktikum berisi kode sumber dan mungkin juga laporan atau dokumentasi tambahan yang menjelaskan solusi dan pendekatan yang digunakan.
@@ -24,10 +24,6 @@ Setiap direktori praktikum berisi kode sumber dan mungkin juga laporan atau doku
 ### Bahasa Pemrograman
 
 Semua kode dalam repositori ini ditulis dalam bahasa C.
-
-## Lisensi
-
-Repositori ini dibuat untuk keperluan pendidikan dan tidak memiliki lisensi resmi. Harap tidak mendistribusikan ulang atau menggunakan kode ini untuk keperluan komersial.
 
 ---
 
