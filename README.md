@@ -17,6 +17,9 @@ Repositori ini berisi kumpulan tugas praktikum untuk mata kuliah IF2111 - Algori
 - **Praktikum-5**: Mesin Karakter & Mesin Kata.
 - **Praktikum-6**: Queue.
 - **Praktikum-7**: Stack.
+- **Praktikum-8**: ADT Set & Map.
+- **Praktikum-9**: List Linear.
+- **Pratkikum-10**: Variasi List Linear
 
 
 Setiap direktori praktikum berisi kode sumber dan mungkin juga laporan atau dokumentasi tambahan yang menjelaskan solusi dan pendekatan yang digunakan.
