@@ -26,7 +26,7 @@ Setiap direktori praktikum berisi kode sumber dan mungkin juga laporan atau doku
 
 ### Bahasa Pemrograman
 
-Semua kode dalam repositori ini ditulis dalam bahasa C bukan C++.
+Semua kode dalam repositori ini ditulis dalam bahasa C bukan java.
 
 ---
 
